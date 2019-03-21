@@ -1,0 +1,1 @@
+SELECT * FROM gayatri_db.sdv_playinfo_player;
